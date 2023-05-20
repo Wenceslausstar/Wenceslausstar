@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wenceslausstar
-- 👀 I’m interested in forensics and penetration testing
+- 👀 I’m interested in web development and penetration testing
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on forensics
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me wesleywenceslaus07@gmail.com 
 
 <!---
